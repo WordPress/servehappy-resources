@@ -17,3 +17,9 @@ Note that hosting-specific tutorials are organized by language, in particular be
 You are always welcome to add links to interesting and possibly helpful articles about upgrading PHP to this list of resources, as well as links to tutorials on how to upgrade PHP on a specific hoster, operating system or tool.
 
 Every list page contains a `Edit` button that leads to an edit page where you can easily make changes to the respective file and then create a pull-request with these changes. For hosting-specific tutorials, you will also find a `Add New Language` button which you can use to add a new language if it isn't listed yet.
+
+## Further Reading
+
+* [Slack Channel](https://wordpress.slack.com/messages/core-php/)
+* [Trac ticket](https://meta.trac.wordpress.org/ticket/2996)
+* [Weekly updates](https://make.wordpress.org/core/tag/core-php/)
