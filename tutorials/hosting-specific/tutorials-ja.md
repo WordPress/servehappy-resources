@@ -11,5 +11,5 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Fisrst Server](http://support.fsv.jp/manual/php/basic/type.html)
 * [Ex-CLOUD](https://ex-cloud.jp/support/question/g-779)
 * [XSERVER](https://www.xserver.ne.jp/manual/man_program_php_ver.php)
-* [CPI](https://www.cpi.ad.jp/shared/detail/php.html)
-* [KAGOYA](http://support.kagoya.jp/kir/manual/php_version/index.html)
+* [CPI](http://acesr.document.secure.ne.jp/tools/php/)
+* [KAGOYA](http://support.kagoya.jp/kir/manual/php_version/change.html)
