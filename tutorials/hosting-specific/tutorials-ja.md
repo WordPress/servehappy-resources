@@ -17,3 +17,5 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Clouver](http://www.clouver.jp/support/man/homepage_program_php_ver.php)
 * [WEBCROW](http://www.webcrow.jp/support/man/homepage_program_php_ver.php)
 * [StarDomain](http://www.star-domain.jp/man/homepage_program_php_ver.php)
+* [CPI](http://acesr.document.secure.ne.jp/tools/php/)
+* [KAGOYA](http://support.kagoya.jp/kir/manual/php_version/change.html)
