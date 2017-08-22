@@ -21,3 +21,4 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [KAGOYA](http://support.kagoya.jp/kir/manual/php_version/change.html)
 * [WADAX](https://www.wadax.ne.jp/support/manual/shared/multi_php.html)
 * [Zenlogic](https://zenlogic.jp/support/manual/web/php.html)
+* [sixcore](http://www.sixcore.ne.jp/dedicated/man/program_php_ver.php)
