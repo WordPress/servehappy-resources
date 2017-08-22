@@ -23,3 +23,4 @@ This is a list of links with articles on PHP version upgrades, that can be used 
 * [Why PHP Versions Are So Important](https://resoundingechoes.net/development/php-versions-important/) (ResoundingEchoes)
 * [Why You Should Be Using Supported PHP Versions](https://kinsta.com/blog/php-versions/) (Kinsta)
 * [WordPress on PHP 7.1 - Now Available](https://www.savvii.eu/blog/wordpress-php-7-1/) (Savvii)
+* [What's New in PHP 7.1](https://kinsta.com/blog/php-7-1-0/) (Kinsta)
