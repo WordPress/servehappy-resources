@@ -19,6 +19,7 @@ This is a list of links with articles on PHP version upgrades, that can be used 
 * [Should You Keep Using Unsupported Software?](https://www.ostraining.com/blog/general/unsupported/) (OSTraining)
 * [Time to update](http://www.wpupdatephp.com/update/) (WPupdatePHP)
 * [Time to Upgrade PHP](https://expressionengine.com/blog/time-to-upgrade-php) (Expression Engine)
+* [What's New in PHP 7.1](https://kinsta.com/blog/php-7-1-0/) (Kinsta)
 * [Whipping your hosting into shape](https://yoast.com/whipping-your-hosting-into-shape/) (Yoast)
 * [Why PHP Versions Are So Important](https://resoundingechoes.net/development/php-versions-important/) (ResoundingEchoes)
 * [Why You Should Be Using Supported PHP Versions](https://kinsta.com/blog/php-versions/) (Kinsta)
