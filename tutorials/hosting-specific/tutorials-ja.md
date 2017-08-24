@@ -15,6 +15,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [KAGOYA](http://support.kagoya.jp/kir/manual/php_version/change.html)
 * [Lolipop](https://lolipop.jp/manual/user/php-setting/)
 * [minibird](http://www.minibird.jp/man/homepage_program_php_ver.php)
+* [MixHost](https://support.mixhost.jp/311)
 * [Oname.com SD](https://help.onamae.com/app/answers/detail/a_id/009103)
 * [Sakura Internet](https://help.sakura.ad.jp/hc/ja/articles/115000135681)
 * [Sixcore](http://www.sixcore.ne.jp/dedicated/man/program_php_ver.php)
