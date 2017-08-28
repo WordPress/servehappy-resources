@@ -24,6 +24,6 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [WADAX](https://www.wadax.ne.jp/support/manual/shared/multi_php.html)
 * [WebARENA](http://faq.nttpc.co.jp/faq/show/12530?site_domain=suitex)
 * [WEBCROW](http://www.webcrow.jp/support/man/homepage_program_php_ver.php)
+* [XREA](https://www.xrea.com/spec/#specCgi)
 * [XSERVER](https://www.xserver.ne.jp/manual/man_program_php_ver.php)
 * [Zenlogic](https://zenlogic.jp/support/manual/web/php.html)
-* [XREA](https://www.xrea.com/spec/#specCgi)
