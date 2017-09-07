@@ -8,6 +8,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [1&1](https://help.1and1.com/hosting-c37630/scripts-and-programming-languages-c85099/php-c37728/change-the-default-version-of-php-in-the-control-panel-a792330.html)
 * [1&1 (Cloud Server)](https://www.1and1.com/cloud-community/learn/application/php/upgrade-php-from-54-to-70-on-a-centos-7-11-cloud-server/)
 * [A2 Hosting](https://www.a2hosting.com/kb/developer-corner/php/changing-php-settings-and-versions)
+* [AMIMOTO AMI](https://support.amimoto-ami.com/english/server-and-aws-management/enabling-php-70-on-amimoto)
 * [Bluehost](https://www.bluehost.com/help/article/php-version-selection-php-config)
 * [Cloudways](https://support.cloudways.com/how-to-upgrade-to-php-7/)
 * [DreamHost (1)](https://help.dreamhost.com/hc/en-us/articles/214895317-How-do-I-change-the-PHP-version-of-my-site-)
@@ -32,4 +33,3 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [TSOHOST](https://www.tsohost.com/knowledge-base/article/987/how-to-upgrade-your-sites-php-version)
 * [Vultr](https://www.vultr.com/docs/upgrade-to-php-7-on-the-vultr-wordpress-app)
 * [WP Engine](https://wpengine.com/support/php-7-faq/)
-* [AMIMOTO AMI](https://support.amimoto-ami.com/english/server-and-aws-management/enabling-php-70-on-amimoto)
