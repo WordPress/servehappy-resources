@@ -1,6 +1,8 @@
 # Articles
 
-[![Edit List](https://img.shields.io/badge/Edit_List--green.svg?style=social)](https://github.com/wp-core-php/servehappy-resources/edit/master/articles/articles.md)
+[![Edit Lists](https://img.shields.io/badge/Edit_Lists--green.svg?style=social)](https://github.com/wp-core-php/servehappy-resources/edit/master/articles/articles.md)
+
+## Upgrade Information
 
 This is a list of links with articles on PHP version upgrades, that can be used as inspiration for the new `servehappy` page planned for WordPress.org.
 
@@ -24,3 +26,12 @@ This is a list of links with articles on PHP version upgrades, that can be used 
 * [Why PHP Versions Are So Important](https://resoundingechoes.net/development/php-versions-important/) (ResoundingEchoes)
 * [Why You Should Be Using Supported PHP Versions](https://kinsta.com/blog/php-versions/) (Kinsta)
 * [WordPress on PHP 7.1 - Now Available](https://www.savvii.eu/blog/wordpress-php-7-1/) (Savvii)
+
+## Case Studies & Benchmarks
+
+This is a list of case studies and benchmarks that examine the actual benefits that an upgrade brought about, and contain facts and numbers regarding these upgrades.
+
+* [How Badoo saved one million dollars switching to PHP7](https://techblog.badoo.com/blog/2016/03/14/how-badoo-saved-one-million-dollars-switching-to-php7/)
+* [PHP 7 at Tumblr](https://engineering.tumblr.com/post/152998126990/php-7-at-tumblr)
+* [PHP 7: The Easiest Performance Optimization I Ever Made](https://pantheon.io/blog/php-7-easiest-performance-optimization-i-ever-made)
+* [Clinton Electronices Switches To PHP 7, Sees Impressive Performance Improvements](https://wpengine.com/blog/php-7-clinton-electronics-case-study/)
