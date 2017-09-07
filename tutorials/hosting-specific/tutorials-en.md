@@ -32,3 +32,4 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [TSOHOST](https://www.tsohost.com/knowledge-base/article/987/how-to-upgrade-your-sites-php-version)
 * [Vultr](https://www.vultr.com/docs/upgrade-to-php-7-on-the-vultr-wordpress-app)
 * [WP Engine](https://wpengine.com/support/php-7-faq/)
+* [AMIMOTO AMI](https://support.amimoto-ami.com/english/server-and-aws-management/enabling-php-70-on-amimoto)
