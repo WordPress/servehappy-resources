@@ -31,7 +31,7 @@ This is a list of links with articles on PHP version upgrades, that can be used 
 
 This is a list of case studies and benchmarks that examine the actual benefits that an upgrade brought about, and contain facts and numbers regarding these upgrades.
 
-* [How Badoo saved one million dollars switching to PHP7](https://techblog.badoo.com/blog/2016/03/14/how-badoo-saved-one-million-dollars-switching-to-php7/)
-* [PHP 7 at Tumblr](https://engineering.tumblr.com/post/152998126990/php-7-at-tumblr)
-* [PHP 7: The Easiest Performance Optimization I Ever Made](https://pantheon.io/blog/php-7-easiest-performance-optimization-i-ever-made)
-* [Clinton Electronices Switches To PHP 7, Sees Impressive Performance Improvements](https://wpengine.com/blog/php-7-clinton-electronics-case-study/)
+* [How Badoo saved one million dollars switching to PHP7](https://techblog.badoo.com/blog/2016/03/14/how-badoo-saved-one-million-dollars-switching-to-php7/) (Badoo)
+* [PHP 7 at Tumblr](https://engineering.tumblr.com/post/152998126990/php-7-at-tumblr) (Tumblr)
+* [PHP 7: The Easiest Performance Optimization I Ever Made](https://pantheon.io/blog/php-7-easiest-performance-optimization-i-ever-made) (Pantheon)
+* [Clinton Electronices Switches To PHP 7, Sees Impressive Performance Improvements](https://wpengine.com/blog/php-7-clinton-electronics-case-study/) (WP Engine)
