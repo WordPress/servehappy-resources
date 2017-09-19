@@ -21,6 +21,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Oname.com SD](https://help.onamae.com/app/answers/detail/a_id/009103)
 * [Sakura Internet](https://help.sakura.ad.jp/hc/ja/articles/115000135681)
 * [Sixcore](http://www.sixcore.ne.jp/dedicated/man/program_php_ver.php)
+* [Smileserver](http://support.smileserver.ne.jp/ver4/06hp/hp03.html)
 * [StarDomain](http://www.star-domain.jp/man/homepage_program_php_ver.php)
 * [StarServer](https://www.star.ne.jp/manual/homepage_php_ver.php)
 * [WADAX](https://www.wadax.ne.jp/support/manual/shared/multi_php.html)
