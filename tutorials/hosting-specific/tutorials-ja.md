@@ -30,3 +30,4 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [XREA](https://www.xrea.com/spec/#specCgi)
 * [XSERVER](https://www.xserver.ne.jp/manual/man_program_php_ver.php)
 * [Zenlogic](https://zenlogic.jp/support/manual/web/php.html)
+* [Z.com](https://domain.z.com/jp/support/shared/cpanel_settings/php-options/)
