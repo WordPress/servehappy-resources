@@ -24,6 +24,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Smileserver](http://support.smileserver.ne.jp/ver4/06hp/hp03.html)
 * [StarDomain](http://www.star-domain.jp/man/homepage_program_php_ver.php)
 * [StarServer](https://www.star.ne.jp/manual/homepage_php_ver.php)
+* [Value-server](https://www.value-server.com/faq/)
 * [WADAX](https://www.wadax.ne.jp/support/manual/shared/multi_php.html)
 * [WebARENA](http://faq.nttpc.co.jp/faq/show/12530?site_domain=suitex)
 * [WEBCROW](http://www.webcrow.jp/support/man/homepage_program_php_ver.php)
