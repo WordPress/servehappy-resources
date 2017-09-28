@@ -14,6 +14,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [First Server](http://support.fsv.jp/manual/php/basic/type.html)
 * [FutureWeb3](https://www.futureweb.jp/faq/faq_133/)
 * [Heteml](https://heteml.jp/support/manual/php5/)
+* [iCLUSTA](https://help.gmocloud.com/app/answers/detail/a_id/2964/kw/php)
 * [KAGOYA](http://support.kagoya.jp/kir/manual/php_version/change.html)
 * [Lolipop](https://lolipop.jp/manual/user/php-setting/)
 * [minibird](http://www.minibird.jp/man/homepage_program_php_ver.php)
