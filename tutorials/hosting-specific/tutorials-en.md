@@ -28,6 +28,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Pagely](https://support.pagely.com/hc/en-us/articles/115000013092-Changing-PHP-Versions)
 * [Pantheon](https://pantheon.io/docs/php-versions/)
 * [Savvii](https://support.savvii.nl/en/support/solutions/articles/11000012882-changing-the-php-version-for-a-website)
+* [Seravo](https://help.seravo.com/en/knowledgebase/13-server-configuration/docs/107-transfer-your-site-to-use-newest-php-version)
 * [ServerGrove](http://blog.servergrove.com/2015/12/23/changing-the-version-of-php-in-shared-hosting/)
 * [SiteGround](https://www.siteground.com/kb/how_to_have_different_php_versions/)
 * [TSOHOST](https://www.tsohost.com/knowledge-base/article/987/how-to-upgrade-your-sites-php-version)
