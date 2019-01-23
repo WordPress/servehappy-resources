@@ -6,5 +6,7 @@
 Tutorials on how to upgrade the PHP version on a specific hoster are organized by language, in particular because there are several hosts that only operate in one or a few countries.
 
 * [English](tutorials-en.md)
+* [French](tutorials-fr.md)
 * [German](tutorials-de.md)
 * [Japanese](tutorials-ja.md)
+* [Spanish](tutorials-es.md)
