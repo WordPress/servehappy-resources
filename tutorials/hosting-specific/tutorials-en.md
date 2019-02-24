@@ -21,6 +21,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [HostGator](https://www.hostgator.com/help/article/php-configuration-plugin)
 * [Inmotion Hosting](http://www.inmotionhosting.com/support/website/php/how-to-change-the-php-version-your-account-uses)
 * [InterServer](https://www.interserver.net/tips/kb/change-php-version-in-cpanel/)
+* [IPOWER](https://www.ipower.com/help/article/scripting-how-to-switch-your-php-version)
 * [Kinsta](https://kinsta.com/knowledgebase/wordpress-php-version/)
 * [liquidweb](https://www.liquidweb.com/kb/how-to-upgrade-apache-and-php-using-cpanels-easyapache/)
 * [MediaTemple](https://mediatemple.net/community/products/dv/207889153/what's-new-in-php-7)
