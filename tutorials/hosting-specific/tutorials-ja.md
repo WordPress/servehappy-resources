@@ -15,6 +15,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [FutureWeb3](https://www.futureweb.jp/faq/faq_133/)
 * [Heteml](https://heteml.jp/support/manual/php5/)
 * [iCLUSTA](https://help.gmocloud.com/app/answers/detail/a_id/2964/kw/php)
+* [Just-Size.Networks](https://www.just-size.net/support/manual_php.php)
 * [KAGOYA](http://support.kagoya.jp/kir/manual/php_version/change.html)
 * [Kinsta](https://kinsta.com/jp/knowledgebase/wordpress-php-version/)
 * [Lolipop](https://lolipop.jp/manual/user/php-setting/)
