@@ -9,6 +9,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [1&1 (Cloud Server)](https://www.1and1.com/cloud-community/learn/application/php/upgrade-php-from-54-to-70-on-a-centos-7-11-cloud-server/)
 * [A2 Hosting](https://www.a2hosting.com/kb/developer-corner/php/changing-php-settings-and-versions)
 * [AMIMOTO AMI](https://support.amimoto-ami.com/english/server-and-aws-management/enabling-php-70-on-amimoto)
+* [Aruba](https://guide.hosting.aruba.it/hosting/linux/servizi-inclusi-creazione-sito-web/scelta-versione-php.aspx)
 * [Bluehost](https://www.bluehost.com/help/article/php-version-selection-php-config)
 * [Cloudways](https://support.cloudways.com/how-to-upgrade-to-php-7/)
 * [DreamHost (1)](https://help.dreamhost.com/hc/en-us/articles/214895317-How-do-I-change-the-PHP-version-of-my-site-)
