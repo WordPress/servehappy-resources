@@ -6,7 +6,13 @@
 This is a list of links with tutorials on how to upgrade the PHP version on a specific hoster.
 
 * [Aruba](https://guide.hosting.aruba.it/hosting/linux/servizi-inclusi-creazione-sito-web/scelta-versione-php.aspx)
+* [Aruba business](https://guide.arubabusiness.it/hosting/hosting-linux/pannello-cpanel/php-version.aspx)
+* [Aruba business plesk](https://guide.arubabusiness.it/hosting/hosting-linux/pannello-plesk-linux/impostazioni-php.aspx)
+* [Domain Register](https://domainregister.international/index.php?rp=%2Fknowledgebase%2F42%2FCome-cambiare-la-versione-di-PHP.html&language=italian)
+* [Iweblab](https://youtu.be/DAAV0QohqVI?fbclid=IwAR3z6EvgZJVeLh74oE0PA_UyBn6I4vuR7E6atCytVA4CB-gDGeV03Fg7qJ8)
+* [Netsons](https://www.netsons.com/manage/knowledgebase/264/Come-cambiare-versione-PHP.html)
 * [Register](https://www.register.it/assistenza/versione-php-hosting-cpanel/)
 * [Register](https://www.register.it/assistenza/php-hosting-windows/)
 * [Register](https://www.register.it/assistenza/modificare-php-ini-hosting-linux/)
 * [Serverplan](https://help.serverplan.com/it/kb/articles/come-cambio-versione-di-php-nel-mio-hosting-cpanel)
+* [X Logic](https://xlogic.org/kb/knowledgebase/come-gestire-i-parametri-php/)
