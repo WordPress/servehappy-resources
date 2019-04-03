@@ -3,7 +3,7 @@
 
 [![Redigera listan](https://img.shields.io/badge/Edit_List--green.svg?style=social)](https://github.com/wp-core-php/servehappy-resources/edit/master/tutorials/hosting-specific/tutorials-sv.md)
 [![Lägg till nytt språk](https://img.shields.io/badge/Add_New_Language--green.svg?style=social)](https://github.com/wp-core-php/servehappy-resources/new/master/tutorials/hosting-specific)
-
+<button name="button" onclick="https://github.com/wp-core-php/servehappy-resources/edit/master/tutorials/hosting-specific/tutorials-en.md">Edit List</button>
 
 
 Det här är en lista med länkar till guider för hur man uppgraderar sin PHP-version hos olika specifika webbhotell på den svenska marknaden.
