@@ -20,10 +20,7 @@ Det här är en lista med länkar till guider för hur man uppgraderar sin PHP-v
 * [Surftown](https://controlpanel.surftown.com/knowledgebase/article/225/att-byta-till-php-7&languagechange=Swedish)
 * [Templ.io](https://help.templ.io/wordpress/supported-php-versions) (på engelska)
 * [Vildmarksdata](https://kundzon.vildmarksdata.se/knowledgebase/67/Andra-PHP-version-pa-en-webbplats.html)
-* [Wopsa](länk saknas)
 * [Wpsyd](https://www.wpsyd.com/kb/view.php?id=107)
-* []()
-* []()
-* []()
+
 
 Om ditt webbhotell saknas i denna lista kan du även kolla i den [globala listan](https://github.com/WordPress/servehappy-resources/blob/master/tutorials/hosting-specific/tutorials-en.md) (på engelska).
