@@ -25,3 +25,5 @@ Det här är en lista med länkar till guider för hur man uppgraderar sin PHP-v
 * []()
 * []()
 * []()
+
+Om du inte hittade ditt webbhotell i denna lista kan du även kolla i den [globala listan](https://github.com/WordPress/servehappy-resources/blob/master/tutorials/hosting-specific/tutorials-en.md) (på engelska).
