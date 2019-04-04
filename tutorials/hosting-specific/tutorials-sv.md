@@ -11,6 +11,7 @@ Det här är en lista med länkar till guider för hur man uppgraderar sin PHP-v
 * [Binero](https://www.binero.se/faq/faq-kontrollpanel/kontrollpanel/hur-kan-jag-i-kontrollpanelen-se-eller-redigera-min-php-version-f-r-min-webbplats)
 * [Crystone](https://helpdesk.crystone.se/hc/sv/articles/207525186-%C3%84ndra-PHP-version)
 * [FS Data](https://fsdata.se/manualer/kontrollpanel/hemsida/byt-php-version-genom-waff/)
+* [Hekto](https://standout.se/uppgradera-php-version-pa-hekto/)
 * [Loopia](https://support.loopia.se/wiki/uppgradera-php-hos-loopia/)
 * [Misshosting](https://missgroup.intercom.help/miss-hosting/video-guider/video-hur-jag-andrar-php-version) (på engelska)
 * [Oderland](https://www.oderland.se/support/artikel/hur-andrar-jag-php-version/)
