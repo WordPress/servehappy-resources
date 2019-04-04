@@ -18,7 +18,7 @@ Det här är en lista med länkar till guider för hur man uppgraderar sin PHP-v
 * [Seravo](https://help.seravo.com/en/knowledgebase/13-server-configuration/docs/107-transfer-your-site-to-use-newest-php-version) (på engelska)
 * [Servebolt](https://service.servebolt.com/server-setup-and-configuration/supported-php-versions) (på engelska)
 * [Surftown](https://controlpanel.surftown.com/knowledgebase/article/225/att-byta-till-php-7&languagechange=Swedish)
-* [Templ.io](https://help.templ.io/wordpress/supported-php-versions) (på engelska)
+* [Templ.io](https://help.templ.io/svenska-supportartiklar/server-setup-och-konfiguration/php-versioner)
 * [Vildmarksdata](https://kundzon.vildmarksdata.se/knowledgebase/67/Andra-PHP-version-pa-en-webbplats.html)
 * [Wpsyd](https://www.wpsyd.com/kb/view.php?id=107)
 
