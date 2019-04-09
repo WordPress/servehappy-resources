@@ -9,6 +9,7 @@ Det här är en lista med länkar till guider för hur man uppgraderar sin PHP-v
 * [Ballou](https://minasidor.ballou.se/knowledgebase/1021/PHP-version-Linux.html)
 * [Beebyte](https://docs.beebyte.se/pages/viewpage.action?pageId=1605635)
 * [Binero](https://www.binero.se/faq/faq-kontrollpanel/kontrollpanel/hur-kan-jag-i-kontrollpanelen-se-eller-redigera-min-php-version-f-r-min-webbplats)
+* [Cloudax](https://cloudax.se/vilken-php-version-kan-jag-anvanda/)
 * [Crystone](https://helpdesk.crystone.se/hc/sv/articles/207525186-%C3%84ndra-PHP-version)
 * [FS Data](https://fsdata.se/manualer/kontrollpanel/hemsida/byt-php-version-genom-waff/)
 * [Hekto](https://standout.se/uppgradera-php-version-pa-hekto/)
