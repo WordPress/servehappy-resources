@@ -4,6 +4,7 @@
 
 This is a list of links with tutorials on how to upgrade the PHP version on a specific hoster.
 
+* [1&1 IONOS](https://www.ionos.it/aiuto/hosting/gestire-la-versione-php-nellarea-clienti/visualizzare-o-modificare-la-versione-di-php/)
 * [Aruba](https://guide.hosting.aruba.it/hosting/linux/servizi-inclusi-creazione-sito-web/scelta-versione-php.aspx)
 * [Aruba business](https://guide.arubabusiness.it/hosting/hosting-linux/pannello-cpanel/php-version.aspx)
 * [Aruba business plesk](https://guide.arubabusiness.it/hosting/hosting-linux/pannello-plesk-linux/impostazioni-php.aspx)
