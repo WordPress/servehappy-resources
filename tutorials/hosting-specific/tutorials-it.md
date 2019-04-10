@@ -1,6 +1,5 @@
 # Hosting-specific Tutorials (Italian)
-
-[![Edit List](https://img.shields.io/badge/Edit_List--green.svg?style=social)](https://github.com/wp-core-php/servehappy-resources/edit/master/tutorials/hosting-specific/tutorials-es.md)
+[![Edit List](https://img.shields.io/badge/Edit_List--green.svg?style=social)](https://github.com/wp-core-php/servehappy-resources/edit/master/tutorials/hosting-specific/tutorials-it.md)
 [![Add New Language](https://img.shields.io/badge/Add_New_Language--green.svg?style=social)](https://github.com/wp-core-php/servehappy-resources/new/master/tutorials/hosting-specific)
 
 This is a list of links with tutorials on how to upgrade the PHP version on a specific hoster.
@@ -11,6 +10,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Domain Register](https://domainregister.international/index.php?rp=%2Fknowledgebase%2F42%2FCome-cambiare-la-versione-di-PHP.html&language=italian)
 * [Hostingsolutions](https://www.hostingsolutions.it/guide/versione-php.php)
 * [Iweblab](https://youtu.be/DAAV0QohqVI)
+* [Kinsta](https://kinsta.com/it/knowledgebase/versione-php-wordpress/)
 * [Netsons](https://www.netsons.com/manage/knowledgebase/264/Come-cambiare-versione-PHP.html)
 * [OVH](https://docs.ovh.com/it/hosting/hosting_condiviso_faq_-_come_aggiornare_la_tua_versione_di_php/)
 * [Register](https://www.register.it/assistenza/versione-php-hosting-cpanel/)
