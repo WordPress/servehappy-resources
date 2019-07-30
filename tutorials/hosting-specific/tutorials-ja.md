@@ -7,6 +7,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 
 * [AMIMOTO AMI](https://support.amimoto-ami.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E3%82%BB%E3%83%AB%E3%83%95%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-amimoto-ami/amimoto-ami-hvmpvm-%E3%81%A7%E6%9C%80%E6%96%B0%E7%89%88-php-%E3%81%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E6%96%B9%E6%B3%95)
 * [Clouver](http://www.clouver.jp/support/man/homepage_program_php_ver.php)
+* [ConoHa WING](https://support.conoha.jp/w/configphp/)
 * [CORESERVER](https://www.coreserver.jp/support/faq/php-fast-cgi.php)
 * [CPI](http://acesr.document.secure.ne.jp/tools/php/)
 * [Ex-CLOUD](https://ex-cloud.jp/support/question/g-779)
@@ -21,6 +22,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Lolipop](https://lolipop.jp/manual/user/php-setting/)
 * [minibird](http://www.minibird.jp/man/homepage_program_php_ver.php)
 * [MixHost](https://support.mixhost.jp/311)
+* [Oname.com RS](https://www.onamae-server.com/guide/rs/p/54)
 * [Oname.com SD](https://help.onamae.com/app/answers/detail/a_id/009103)
 * [Sakura Internet](https://help.sakura.ad.jp/hc/ja/articles/115000135681)
 * [Sixcore](http://www.sixcore.ne.jp/dedicated/man/program_php_ver.php)
@@ -35,4 +37,4 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [XREA](https://www.xrea.com/spec/#specCgi)
 * [XSERVER](https://www.xserver.ne.jp/manual/man_program_php_ver.php)
 * [Zenlogic](https://zenlogic.jp/support/manual/web/php.html)
-* [Z.com](https://domain.z.com/jp/support/shared/cpanel_settings/php-options/)
+* [Z.com](https://hosting.z.com/jp/support/shared/cpanel/cpanel8/)
