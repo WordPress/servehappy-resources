@@ -17,6 +17,8 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Fasthosts](https://help.fasthosts.co.uk/app/answers/detail/a_id/1962/~/changing-your-php-version)
 * [GoDaddy (Web & Classic Hosting)](https://www.godaddy.com/help/view-or-change-your-php-version-3937)
 * [GoDaddy (Linux cPanel Hosting)](https://www.godaddy.com/help/view-or-change-your-php-version-16090)
+* [GoDaddy (Windows Plesk Hosting)](https://www.godaddy.com/help/change-my-php-version-20309)
+* [GoDaddy (Managed WordPress Hosting)](https://www.godaddy.com/help/change-my-php-version-32202)
 * [GreenGeeks](https://www.greengeeks.com/kb/1838/what-version-of-php-does-greengeeks-use/)
 * [Hetzner](https://hetzner.co.za/help-centre/website/how-do-i-upgradedowngrade-my-version-of-php/)
 * [HostGator](https://www.hostgator.com/help/article/php-configuration-plugin)
