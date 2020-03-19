@@ -36,4 +36,5 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [SuperHosting.BG](https://help.superhosting.bg/en/php-manager-by-superhosting.html)
 * [TSOHOST](https://www.tsohost.com/knowledge-base/article/987/how-to-upgrade-your-sites-php-version)
 * [Vultr](https://www.vultr.com/docs/upgrade-to-php-7-on-the-vultr-wordpress-app)
+* [WebFaction](https://docs.webfaction.com/software/php.html?highlight=php%20version#upgrade-to-another-php-version)
 * [WP Engine](https://wpengine.com/support/php-7-faq/)
