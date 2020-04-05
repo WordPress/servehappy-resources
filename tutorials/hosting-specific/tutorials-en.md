@@ -10,7 +10,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [A2 Hosting](https://www.a2hosting.com/kb/developer-corner/php/changing-php-settings-and-versions)
 * [AMIMOTO AMI](https://support.amimoto-ami.com/english/server-and-aws-management/enabling-php-70-on-amimoto)
 * [Antagonist](https://www.antagonist.nl/help/nl/webhosting/advanced/php-selector)
-* [Bluehost](https://www.bluehost.com/help/article/php-version-selection-php-config)
+* [Bluehost](https://my.bluehost.com/hosting/help/php-version-selection-php-config)
 * [Cloudways](https://support.cloudways.com/how-to-upgrade-to-php-7/)
 * [DreamHost (1)](https://help.dreamhost.com/hc/en-us/articles/214895317-How-do-I-change-the-PHP-version-of-my-site-)
 * [DreamHost (2)](https://help.dreamhost.com/hc/en-us/articles/214205548-What-do-I-need-to-do-about-the-PHP-upgrade-)
