@@ -24,6 +24,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [GreenGeeks](https://www.greengeeks.com/kb/1838/what-version-of-php-does-greengeeks-use/)
 * [Hetzner](https://hetzner.co.za/help-centre/website/how-do-i-upgradedowngrade-my-version-of-php/)
 * [HostGator](https://www.hostgator.com/help/article/php-configuration-plugin)
+* [HostPapa](https://hostpapasupport.com/how-to-change-php-version-cpanel/)
 * [ICDSoft](https://www.icdsoft.com/en/kb/view/php_settings)
 * [Inmotion Hosting](http://www.inmotionhosting.com/support/website/php/how-to-change-the-php-version-your-account-uses)
 * [InterServer](https://www.interserver.net/tips/kb/change-php-version-in-cpanel/)
