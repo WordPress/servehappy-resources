@@ -14,6 +14,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Cloudways](https://support.cloudways.com/how-to-upgrade-to-php-7/)
 * [DreamHost (1)](https://help.dreamhost.com/hc/en-us/articles/214895317-How-do-I-change-the-PHP-version-of-my-site-)
 * [DreamHost (2)](https://help.dreamhost.com/hc/en-us/articles/214205548-What-do-I-need-to-do-about-the-PHP-upgrade-)
+* [FastComet](https://www.fastcomet.com/tutorials/cpanel/php-version)
 * [Fasthosts](https://help.fasthosts.co.uk/app/answers/detail/a_id/1962/~/changing-your-php-version)
 * [GoDaddy (Web & Classic Hosting)](https://www.godaddy.com/help/view-or-change-your-php-version-3937)
 * [GoDaddy (Linux cPanel Hosting)](https://www.godaddy.com/help/view-or-change-your-php-version-16090)
