@@ -5,4 +5,5 @@
 
 This is a list of links with tutorials on how to upgrade the PHP version on a specific hoster.
 
+* [HostPapa](https://hostpapasupport.com/es/knowledge-base/como-cambiar-la-version-de-php-en-cpanel/)
 * [Kinsta](https://kinsta.com/es/base-de-conocimiento/wordpress-php-version/)
