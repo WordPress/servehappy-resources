@@ -46,6 +46,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Pagely](https://support.pagely.com/hc/en-us/articles/115000013092-Changing-PHP-Versions)
 * [Pantheon](https://pantheon.io/docs/php-versions/)
 * [Platform.sh](https://docs.platform.sh/languages/php.html#supported-versions)
+* [Reclaim Hosting](https://support.reclaimhosting.com/hc/en-us/articles/4405522991255-Changing-Your-PHP-Version-in-cPanel)
 * [Savvii](https://support.savvii.nl/en/support/solutions/articles/11000012882-changing-the-php-version-for-a-website)
 * [Seravo](https://help.seravo.com/article/41-set-your-site-to-use-newest-php-version)
 * [ServerGrove](https://support.servergrove.com/?s=upgrade+php)
