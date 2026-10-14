@@ -44,6 +44,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [One](https://www.one.com/en/support/faq/what-should-i-check-when-upgrading-php)
 * [OVH](https://docs.ovh.com/us/en/hosting/how_to_configure_php_on_your_ovh_web_hosting_package_2014/)
 * [Pagely](https://support.pagely.com/hc/en-us/articles/115000013092-Changing-PHP-Versions)
+* [Pair Networks](https://github.com/innerkorehq/wp-api-client)
 * [Pantheon](https://pantheon.io/docs/php-versions/)
 * [Platform.sh](https://docs.platform.sh/languages/php.html#supported-versions)
 * [Reclaim Hosting](https://support.reclaimhosting.com/hc/en-us/articles/4405522991255-Changing-Your-PHP-Version-in-cPanel)
